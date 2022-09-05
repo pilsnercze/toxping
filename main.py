@@ -9,7 +9,6 @@ class color:
     DOWN = '\033[91m'
     INFO = '\033[93m'
     ENDC = '\033[0m'
-    BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
 def clear():
